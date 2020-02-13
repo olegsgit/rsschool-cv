@@ -17,6 +17,7 @@
 - Java
 - SQL
 - Git
+- Turbo Pascal
 
 ### Code Examples:
 - [Github](https://github.com/olegsgit)
