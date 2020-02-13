@@ -35,7 +35,7 @@ if (count % 2 == 0)
 ### Experience:
 - 1 year as с# developer
 - university projects
-- courses
+- courses and self education
 
 ### Education:
 - BSU Faculty of Radiophysics and Computer Technologies
