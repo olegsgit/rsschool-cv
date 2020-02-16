@@ -8,8 +8,7 @@
 - Gmail: osipaualeh@gmail.com
 
 ### Summary:
-> My name is Oleg. I'm interested in WEB Development so i want to get new practical experience. I think the most important for studing is learning by myself, but of course when somebody who have a lot of experience shares knowledges it could be very helpful. So i think skills and experience i will get on course program will help me in self-education and i will become a part of this courses in the future.
-
+> My name is Oleg. I'm interested in WEB Development so i want to get new knowledges and practical experience in this direction. 
 ### Skills:
 
 - JS
