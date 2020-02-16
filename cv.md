@@ -28,7 +28,6 @@ if (count % 2 == 0)
                 double middleElement2 = array[(count / 2)];
                 medianvalue = (middleElement1 + middleElement2) / 2;
             }
-}
 ```
 
 ### Experience:
