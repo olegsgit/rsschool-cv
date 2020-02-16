@@ -1,0 +1,41 @@
+body {
+  font-family: Verdana, Arial, sans-serif; 
+  font-size: 16px; 
+  background-color: #d1e3e3; 
+  color: #d1e3e3; 
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h1,
+h2,
+section {
+  margin: 20px 0;
+}
+
+.wrapper{
+    max-width: 1024px;
+    min-height: 600px;
+    margin: 0 auto;
+}
+
+.name {
+  text-align: center;
+}
+
+.education {
+  font-weight: bold;
+}
+
+.experience {
+  font-style: italic;
+}
+
+footer{
+    padding: 50px;
+    background-color: #226063;
+}
